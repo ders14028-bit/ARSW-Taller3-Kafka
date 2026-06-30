@@ -16,3 +16,7 @@
 
 ## Actividad 2 Decisiones de configuración
 
+
+## Actividad 3 
+
+![alt text](image.png)
